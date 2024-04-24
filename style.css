@@ -1,0 +1,14 @@
+html{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: black;
+    color:white;
+}
+img{
+    border:5px solid white;
+    width: 100%;
+}
+div{
+    width: 75%;
+    margin-left: 13%;
+}
